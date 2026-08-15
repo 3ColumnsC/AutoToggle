@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "autotoggle"
+version = "${file.jarVersion}"
+displayName = "AutoToggle"
+authors = "3C Team"
+description = "Adds toggle-based automation for repetitive keybinds."
+logoFile = "assets/autotoggle/icon.png"
+
+[[mixins]]
+config = "autotoggle.mixins.json"
+
+[[dependencies.autotoggle]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.2,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.autotoggle]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.2,)"
+ordering = "NONE"
+side = "BOTH"
