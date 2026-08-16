@@ -14,7 +14,7 @@ A lightweight, fully client-side mod that adds one-key toggles for running, snea
 | **Auto-Run** | `R` | Toggles running on/off                                                      |
 | **Auto-Shift** | `Y` | Toggles sneaking/shifting on/off                                            |
 | **Auto-Jump** | Unbound | Keeps the character hopping while enabled                                   |
-| **Auto-Left-Click** | `P` | Auto-breaks blocks or attacks mobs, respecting sword attack cooldown |
+| **Auto-Left-Click** | `I` | Auto-breaks blocks or attacks mobs, respecting sword attack cooldown |
 | **Auto-Right-Click** | Unbound | Auto-places blocks or fires charged bows/crossbows                          |
 | **Auto-Tool** | `K` | Auto-selects the best hotbar tool for the block you're mining               |
 | **Auto-Firework** | Unbound | Auto-launches fireworks while gliding with an elytra                        |
