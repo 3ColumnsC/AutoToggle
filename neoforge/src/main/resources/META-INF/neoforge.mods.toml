@@ -16,13 +16,13 @@ config = "autotoggle.mixins.json"
 [[dependencies.autotoggle]]
 modId = "neoforge"
 type = "required"
-versionRange = "[26.2,)"
+versionRange = "[26.1,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.autotoggle]]
 modId = "minecraft"
 type = "required"
-versionRange = "[26.2,)"
+versionRange = "[26.1.2,)"
 ordering = "NONE"
 side = "BOTH"

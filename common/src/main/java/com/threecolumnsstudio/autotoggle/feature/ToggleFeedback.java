@@ -19,7 +19,7 @@ public final class ToggleFeedback {
 
     public static void show(Minecraft minecraft, boolean enabled, SoundEvent sound, String enabledKey, String disabledKey, int color) {
         playSound(minecraft, sound);
-        minecraft.gui.hud.setOverlayMessage(
+        minecraft.gui.setOverlayMessage(
             Component.translatable(enabled ? enabledKey : disabledKey).withColor(color),
             false
         );
