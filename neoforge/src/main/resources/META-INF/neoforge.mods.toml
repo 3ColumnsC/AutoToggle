@@ -8,6 +8,7 @@ version = "${file.jarVersion}"
 displayName = "AutoToggle"
 authors = "3C Team"
 description = "Adds toggle-based automation for repetitive keybinds."
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/auto-toggle"
 logoFile = "assets/autotoggle/icon.png"
 
 [[mixins]]
