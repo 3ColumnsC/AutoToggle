@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Ua ho\u0027opau \u0027ia ka Auto Shift",
     "message.autotoggle.autorun.disabled":  "Ua ho\u0027opau \u0027ia ka Auto Run",
     "key.autotoggle.autorun.toggle":  "Ho\u0027ololi i ka Auto Run",
-    "message.autotoggle.autorun.enabled":  "Ua ho\u0027ā \u0027ia ka Auto Run"
+    "message.autotoggle.autorun.enabled":  "Ua ho\u0027ā \u0027ia ka Auto Run",
+    "key.autotoggle.fullgammabright.toggle": "Ho\u0027ololi i ka Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Ua ho\u0027ā \u0027ia ka Full Bright",
+    "message.autotoggle.fullgammabright.disabled": "Ua ho\u0027opau \u0027ia ka Full Bright"
 }

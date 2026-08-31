@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift uit",
     "message.autotoggle.autorun.disabled":  "Auto Run uit",
     "key.autotoggle.autorun.toggle":  "Auto Run umzette",
-    "message.autotoggle.autorun.enabled":  "Auto Run an"
+    "message.autotoggle.autorun.enabled":  "Auto Run an",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright umzette",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright an",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright uit"
 }

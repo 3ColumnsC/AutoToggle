@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift 已關閉",
     "key.autotoggle.autorun.toggle": "切換 Auto Run",
     "message.autotoggle.autorun.enabled": "Auto Run 已開啟",
-    "message.autotoggle.autorun.disabled": "Auto Run 已關閉"
+    "message.autotoggle.autorun.disabled": "Auto Run 已關閉",
+    "key.autotoggle.fullgammabright.toggle": "切換 Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright 已開啟",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright 已關閉"
 }

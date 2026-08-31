@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift 無効",
     "key.autotoggle.autorun.toggle": "Auto Run 切り替え",
     "message.autotoggle.autorun.enabled": "Auto Run 有効",
-    "message.autotoggle.autorun.disabled": "Auto Run 無効"
+    "message.autotoggle.autorun.disabled": "Auto Run 無効",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright 切り替え",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright 有効",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright 無効"
 }

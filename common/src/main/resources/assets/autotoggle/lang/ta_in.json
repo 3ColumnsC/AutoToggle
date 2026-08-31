@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift அணைக்கப்பட்டது",
     "message.autotoggle.autorun.disabled":  "Auto Run அணைக்கப்பட்டது",
     "key.autotoggle.autorun.toggle":  "Auto Run மாற்று",
-    "message.autotoggle.autorun.enabled":  "Auto Run இயக்கத்தில் உள்ளது"
+    "message.autotoggle.autorun.enabled":  "Auto Run இயக்கத்தில் உள்ளது",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright மாற்று",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright இயக்கத்தில் உள்ளது",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright அணைக்கப்பட்டது"
 }

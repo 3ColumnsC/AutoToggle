@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Το Auto Shift απενεργοποιήθηκε",
     "message.autotoggle.autorun.disabled":  "Το Auto Run απενεργοποιήθηκε",
     "key.autotoggle.autorun.toggle":  "Εναλλαγή Auto Run",
-    "message.autotoggle.autorun.enabled":  "Το Auto Run ενεργοποιήθηκε"
+    "message.autotoggle.autorun.enabled":  "Το Auto Run ενεργοποιήθηκε",
+    "key.autotoggle.fullgammabright.toggle": "Εναλλαγή Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Το Full Bright ενεργοποιήθηκε",
+    "message.autotoggle.fullgammabright.disabled": "Το Full Bright απενεργοποιήθηκε"
 }

@@ -9,6 +9,7 @@ import com.threecolumnsstudio.autotoggle.feature.AutoRunFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoShiftFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoToolFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoElytraFireworkFeature;
+import com.threecolumnsstudio.autotoggle.feature.FullGammaBrightFeature;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.fabricmc.fabric.api.client.keymapping.v1.KeyMappingHelper;
@@ -29,6 +30,7 @@ public class AutoToggleFabric implements ClientModInitializer {
         KeyMappingHelper.registerKeyMapping(AutoRightClickFeature.KEY);
         KeyMappingHelper.registerKeyMapping(AutoToolFeature.KEY);
         KeyMappingHelper.registerKeyMapping(AutoElytraFireworkFeature.KEY);
+        KeyMappingHelper.registerKeyMapping(FullGammaBrightFeature.KEY);
         HudElementRegistry.attachElementAfter(
             VanillaHudElements.OVERLAY_MESSAGE,
             Identifier.fromNamespaceAndPath(AutoToggle.MOD_ID, "autotool_status"),

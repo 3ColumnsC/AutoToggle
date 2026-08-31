@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift выключаны",
     "message.autotoggle.autorun.disabled":  "Auto Run выключаны",
     "key.autotoggle.autorun.toggle":  "Пераключыць Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run уключаны"
+    "message.autotoggle.autorun.enabled":  "Auto Run уключаны",
+    "key.autotoggle.fullgammabright.toggle": "Пераключыць Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright уключаны",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright выключаны"
 }

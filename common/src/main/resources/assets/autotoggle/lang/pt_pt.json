@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift desativado",
     "key.autotoggle.autorun.toggle": "Alternar Auto Run",
     "message.autotoggle.autorun.enabled": "Auto Run ativada",
-    "message.autotoggle.autorun.disabled": "Auto Run desativada"
+    "message.autotoggle.autorun.disabled": "Auto Run desativada",
+    "key.autotoggle.fullgammabright.toggle": "Alternar Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ativada",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright desativada"
 }

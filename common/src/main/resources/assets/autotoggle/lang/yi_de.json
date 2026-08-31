@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift אָפּגעשטעלט",
     "message.autotoggle.autorun.disabled":  "Auto Run אָפּגעשטעלט",
     "key.autotoggle.autorun.toggle":  "בייטן Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run אָנגעשטעלט"
+    "message.autotoggle.autorun.enabled":  "Auto Run אָנגעשטעלט",
+    "key.autotoggle.fullgammabright.toggle": "בייטן Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright אָנגעשטעלט",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright אָפּגעשטעלט"
 }

@@ -7,6 +7,7 @@ import com.threecolumnsstudio.autotoggle.feature.AutoRunFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoShiftFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoToolFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoElytraFireworkFeature;
+import com.threecolumnsstudio.autotoggle.feature.FullGammaBrightFeature;
 import net.minecraft.client.Minecraft;
 
 public final class AutoToggleClient {
@@ -21,6 +22,7 @@ public final class AutoToggleClient {
         AutoRightClickFeature.onClientTick(minecraft);
         AutoToolFeature.onClientTick(minecraft);
         AutoElytraFireworkFeature.onClientTick(minecraft);
+        FullGammaBrightFeature.onClientTick(minecraft);
     }
 
     public static void reset() {
@@ -31,5 +33,6 @@ public final class AutoToggleClient {
         AutoRightClickFeature.reset();
         AutoToolFeature.reset();
         AutoElytraFireworkFeature.reset();
+        FullGammaBrightFeature.reset();
     }
 }

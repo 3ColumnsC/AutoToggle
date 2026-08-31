@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift laj xch\u0027ayel",
     "message.autotoggle.autorun.disabled":  "Auto Run laj xch\u0027ayel",
     "key.autotoggle.autorun.toggle":  "K\u0027ej Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run laj yak\u0027el"
+    "message.autotoggle.autorun.enabled":  "Auto Run laj yak\u0027el",
+    "key.autotoggle.fullgammabright.toggle": "K\u0027ej Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright laj yak\u0027el",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright laj xch\u0027ayel"
 }

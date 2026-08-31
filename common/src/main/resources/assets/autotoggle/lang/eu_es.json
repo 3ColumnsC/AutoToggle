@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift desaktibatuta",
     "message.autotoggle.autorun.disabled":  "Auto Run desaktibatuta",
     "key.autotoggle.autorun.toggle":  "Txandakatu Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run aktibatuta"
+    "message.autotoggle.autorun.enabled":  "Auto Run aktibatuta",
+    "key.autotoggle.fullgammabright.toggle": "Txandakatu Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aktibatuta",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright desaktibatuta"
 }

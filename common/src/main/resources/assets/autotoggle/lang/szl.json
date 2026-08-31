@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift wyłůnczone",
     "message.autotoggle.autorun.disabled":  "Auto Run wyłůnczony",
     "key.autotoggle.autorun.toggle":  "Przełůncz Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run wlůnczony"
+    "message.autotoggle.autorun.enabled":  "Auto Run wlůnczony",
+    "key.autotoggle.fullgammabright.toggle": "Przełůncz Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright wlůnczony",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright wyłůnczony"
 }

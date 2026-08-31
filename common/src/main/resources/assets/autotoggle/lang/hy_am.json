@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift անջատված է",
     "message.autotoggle.autorun.disabled":  "Auto Run անջատված է",
     "key.autotoggle.autorun.toggle":  "Միացնել/անջատել Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run միացված է"
+    "message.autotoggle.autorun.enabled":  "Auto Run միացված է",
+    "key.autotoggle.fullgammabright.toggle": "Միացնել/անջատել Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright միացված է",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright անջատված է"
 }

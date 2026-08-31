@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift waa la damiyay",
     "message.autotoggle.autorun.disabled":  "Auto Run waa la damiyay",
     "key.autotoggle.autorun.toggle":  "Beddel Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run waa la shiday"
+    "message.autotoggle.autorun.enabled":  "Auto Run waa la shiday",
+    "key.autotoggle.fullgammabright.toggle": "Beddel Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright waa la shiday",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright waa la damiyay"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift li pini",
     "message.autotoggle.autorun.disabled":  "Auto Run li pini",
     "key.autotoggle.autorun.toggle":  "o ante e Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run li open"
+    "message.autotoggle.autorun.enabled":  "Auto Run li open",
+    "key.autotoggle.fullgammabright.toggle": "o ante e Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright li open",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright li pini"
 }

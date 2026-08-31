@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift air a chur dheth",
     "message.autotoggle.autorun.disabled":  "Auto Run air a chur dheth",
     "key.autotoggle.autorun.toggle":  "Toglaich Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run air a chur an gnìomh"
+    "message.autotoggle.autorun.enabled":  "Auto Run air a chur an gnìomh",
+    "key.autotoggle.fullgammabright.toggle": "Toglaich Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright air a chur an gnìomh",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright air a chur dheth"
 }

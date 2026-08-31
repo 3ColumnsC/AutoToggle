@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift casta as",
     "message.autotoggle.autorun.disabled":  "Auto Run casta as",
     "key.autotoggle.autorun.toggle":  "Scaip Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run casta air"
+    "message.autotoggle.autorun.enabled":  "Auto Run casta air",
+    "key.autotoggle.fullgammabright.toggle": "Scaip Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright casta air",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright casta as"
 }

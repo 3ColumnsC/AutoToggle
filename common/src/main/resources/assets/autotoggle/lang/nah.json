@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift oahcic",
     "message.autotoggle.autorun.disabled":  "Auto Run oahcic",
     "key.autotoggle.autorun.toggle":  "Xicpatla Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run omochiuh"
+    "message.autotoggle.autorun.enabled":  "Auto Run omochiuh",
+    "key.autotoggle.fullgammabright.toggle": "Xicpatla Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright omochiuh",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright oahcic"
 }

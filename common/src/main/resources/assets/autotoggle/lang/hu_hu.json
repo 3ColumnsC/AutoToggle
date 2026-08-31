@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift kikapcsolva",
     "message.autotoggle.autorun.disabled":  "Auto Run kikapcsolva",
     "key.autotoggle.autorun.toggle":  "Auto Run váltása",
-    "message.autotoggle.autorun.enabled":  "Auto Run bekapcsolva"
+    "message.autotoggle.autorun.enabled":  "Auto Run bekapcsolva",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright váltása",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright bekapcsolva",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright kikapcsolva"
 }

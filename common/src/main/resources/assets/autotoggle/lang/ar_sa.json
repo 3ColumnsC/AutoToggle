@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "تم إيقاف Auto Shift",
     "message.autotoggle.autorun.disabled":  "تم إيقاف Auto Run",
     "key.autotoggle.autorun.toggle":  "تبديل Auto Run",
-    "message.autotoggle.autorun.enabled":  "تم تفعيل Auto Run"
+    "message.autotoggle.autorun.enabled":  "تم تفعيل Auto Run",
+    "key.autotoggle.fullgammabright.toggle": "تبديل Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "تم تفعيل Full Bright",
+    "message.autotoggle.fullgammabright.disabled": "تم إيقاف Full Bright"
 }
