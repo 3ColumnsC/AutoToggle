@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift ປິດແລ້ວ",
     "message.autotoggle.autorun.disabled":  "Auto Run ປິດແລ້ວ",
     "key.autotoggle.autorun.toggle":  "ສະຫຼັບ Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run ເປີດແລ້ວ"
+    "message.autotoggle.autorun.enabled":  "Auto Run ເປີດແລ້ວ",
+    "key.autotoggle.fullgammabright.toggle": "ສະຫຼັບ Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ເປີດແລ້ວ",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright ປິດແລ້ວ"
 }

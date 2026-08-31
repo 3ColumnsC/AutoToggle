@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift बंद",
     "message.autotoggle.autorun.disabled":  "Auto Run बंद",
     "key.autotoggle.autorun.toggle":  "Auto Run टॉगल करें",
-    "message.autotoggle.autorun.enabled":  "Auto Run चालू"
+    "message.autotoggle.autorun.enabled":  "Auto Run चालू",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright टॉगल करें",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright चालू",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright बंद"
 }

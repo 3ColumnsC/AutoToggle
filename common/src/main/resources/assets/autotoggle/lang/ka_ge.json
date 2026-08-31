@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift გამორთულია",
     "message.autotoggle.autorun.disabled":  "Auto Run გამორთულია",
     "key.autotoggle.autorun.toggle":  "Auto Run-ის გადართვა",
-    "message.autotoggle.autorun.enabled":  "Auto Run ჩართულია"
+    "message.autotoggle.autorun.enabled":  "Auto Run ჩართულია",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright-ის გადართვა",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ჩართულია",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright გამორთულია"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift avaktiverad",
     "message.autotoggle.autorun.disabled":  "Auto Run avaktiverat",
     "key.autotoggle.autorun.toggle":  "Växla Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run aktiverat"
+    "message.autotoggle.autorun.enabled":  "Auto Run aktiverat",
+    "key.autotoggle.fullgammabright.toggle": "Växla Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aktiverat",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright avaktiverat"
 }

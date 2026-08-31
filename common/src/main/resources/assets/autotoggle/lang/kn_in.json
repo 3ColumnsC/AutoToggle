@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ",
     "message.autotoggle.autorun.disabled":  "Auto Run ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ",
     "key.autotoggle.autorun.toggle":  "Auto Run ಟಾಗಲ್",
-    "message.autotoggle.autorun.enabled":  "Auto Run ಸಕ್ರಿಯವಾಗಿದೆ"
+    "message.autotoggle.autorun.enabled":  "Auto Run ಸಕ್ರಿಯವಾಗಿದೆ",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright ಟಾಗಲ್",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ಸಕ್ರಿಯವಾಗಿದೆ",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ"
 }

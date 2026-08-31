@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Naka-off ang Auto Shift",
     "message.autotoggle.autorun.disabled":  "Naka-off ang Auto Run",
     "key.autotoggle.autorun.toggle":  "I-toggle ang Auto Run",
-    "message.autotoggle.autorun.enabled":  "Naka-on ang Auto Run"
+    "message.autotoggle.autorun.enabled":  "Naka-on ang Auto Run",
+    "key.autotoggle.fullgammabright.toggle": "I-toggle ang Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Naka-on ang Full Bright",
+    "message.autotoggle.fullgammabright.disabled": "Naka-off ang Full Bright"
 }

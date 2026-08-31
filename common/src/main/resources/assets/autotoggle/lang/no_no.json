@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift avslått",
     "message.autotoggle.autorun.disabled":  "Auto Run avslått",
     "key.autotoggle.autorun.toggle":  "Slå av/på Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run påslått"
+    "message.autotoggle.autorun.enabled":  "Auto Run påslått",
+    "key.autotoggle.fullgammabright.toggle": "Slå av/på Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright påslått",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright avslått"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift išjungtas",
     "message.autotoggle.autorun.disabled":  "Auto Run išjungtas",
     "key.autotoggle.autorun.toggle":  "Perjungti Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run įjungtas"
+    "message.autotoggle.autorun.enabled":  "Auto Run įjungtas",
+    "key.autotoggle.fullgammabright.toggle": "Perjungti Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright įjungtas",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright išjungtas"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift ti pa",
     "message.autotoggle.autorun.disabled":  "Auto Run ti pa",
     "key.autotoggle.autorun.toggle":  "Yipada Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run ti ṣiṣẹ"
+    "message.autotoggle.autorun.enabled":  "Auto Run ti ṣiṣẹ",
+    "key.autotoggle.fullgammabright.toggle": "Yipada Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ti ṣiṣẹ",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright ti pa"
 }

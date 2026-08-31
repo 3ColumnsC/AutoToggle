@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift kapalı",
     "key.autotoggle.autorun.toggle": "Auto Run aç/kapat",
     "message.autotoggle.autorun.enabled": "Auto Run açık",
-    "message.autotoggle.autorun.disabled": "Auto Run kapalı"
+    "message.autotoggle.autorun.disabled": "Auto Run kapalı",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright aç/kapat",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright açık",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright kapalı"
 }

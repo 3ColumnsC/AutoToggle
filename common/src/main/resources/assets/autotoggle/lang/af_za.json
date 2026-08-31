@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift afgeskakel",
     "message.autotoggle.autorun.disabled":  "Auto Run afgeskakel",
     "key.autotoggle.autorun.toggle":  "Skakel Auto Run aan/af",
-    "message.autotoggle.autorun.enabled":  "Auto Run aangeskakel"
+    "message.autotoggle.autorun.enabled":  "Auto Run aangeskakel",
+    "key.autotoggle.fullgammabright.toggle": "Skakel Full Bright aan/af",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aangeskakel",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright afgeskakel"
 }

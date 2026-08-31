@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift nonaktif",
     "message.autotoggle.autorun.disabled":  "Auto Run nonaktif",
     "key.autotoggle.autorun.toggle":  "Alihkan Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run aktif"
+    "message.autotoggle.autorun.enabled":  "Auto Run aktif",
+    "key.autotoggle.fullgammabright.toggle": "Alihkan Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aktif",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright nonaktif"
 }

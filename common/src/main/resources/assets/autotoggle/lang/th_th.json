@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "ปิด Auto Shift แล้ว",
     "message.autotoggle.autorun.disabled":  "ปิด Auto Run แล้ว",
     "key.autotoggle.autorun.toggle":  "สลับ Auto Run",
-    "message.autotoggle.autorun.enabled":  "เปิด Auto Run แล้ว"
+    "message.autotoggle.autorun.enabled":  "เปิด Auto Run แล้ว",
+    "key.autotoggle.fullgammabright.toggle": "สลับ Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "เปิด Full Bright แล้ว",
+    "message.autotoggle.fullgammabright.disabled": "ปิด Full Bright แล้ว"
 }
