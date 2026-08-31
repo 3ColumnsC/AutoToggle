@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift pois käytöstä",
     "message.autotoggle.autorun.disabled":  "Auto Run pois käytöstä",
     "key.autotoggle.autorun.toggle":  "Vaihda Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run käytössä"
+    "message.autotoggle.autorun.enabled":  "Auto Run käytössä",
+    "key.autotoggle.fullgammabright.toggle": "Vaihda Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright käytössä",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright pois käytöstä"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift çaktivizuar",
     "message.autotoggle.autorun.disabled":  "Auto Run çaktivizuar",
     "key.autotoggle.autorun.toggle":  "Kalo Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run aktivizuar"
+    "message.autotoggle.autorun.enabled":  "Auto Run aktivizuar",
+    "key.autotoggle.fullgammabright.toggle": "Kalo Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aktivizuar",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright çaktivizuar"
 }

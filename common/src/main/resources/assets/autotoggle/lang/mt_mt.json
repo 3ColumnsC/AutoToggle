@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift diżattivat",
     "message.autotoggle.autorun.disabled":  "Auto Run diżattivat",
     "key.autotoggle.autorun.toggle":  "Biddel Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run attivat"
+    "message.autotoggle.autorun.enabled":  "Auto Run attivat",
+    "key.autotoggle.fullgammabright.toggle": "Biddel Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright attivat",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright diżattivat"
 }

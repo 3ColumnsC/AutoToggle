@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift gwrys heb ober",
     "message.autotoggle.autorun.disabled":  "Auto Run gwrys heb ober",
     "key.autotoggle.autorun.toggle":  "Treusflippya Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run gwrys yn ober"
+    "message.autotoggle.autorun.enabled":  "Auto Run gwrys yn ober",
+    "key.autotoggle.fullgammabright.toggle": "Treusflippya Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright gwrys yn ober",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright gwrys heb ober"
 }

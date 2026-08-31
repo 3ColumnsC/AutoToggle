@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift ki bha ọnọ",
     "message.autotoggle.autorun.disabled":  "Auto Run ki bha ọnọ",
     "key.autotoggle.autorun.toggle":  "Kpọn Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run ki ọnọ"
+    "message.autotoggle.autorun.enabled":  "Auto Run ki ọnọ",
+    "key.autotoggle.fullgammabright.toggle": "Kpọn Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ki ọnọ",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright ki bha ọnọ"
 }

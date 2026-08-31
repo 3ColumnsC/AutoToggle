@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift ii fámus",
     "message.autotoggle.autorun.disabled":  "Auto Run ii fámus",
     "key.autotoggle.autorun.toggle":  "Molle Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run fámus"
+    "message.autotoggle.autorun.enabled":  "Auto Run fámus",
+    "key.autotoggle.fullgammabright.toggle": "Molle Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright fámus",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright ii fámus"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift lazhet",
     "message.autotoggle.autorun.disabled":  "Auto Run lazhet",
     "key.autotoggle.autorun.toggle":  "Treiñ Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run lakaet en-dro"
+    "message.autotoggle.autorun.enabled":  "Auto Run lakaet en-dro",
+    "key.autotoggle.fullgammabright.toggle": "Treiñ Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright lakaet en-dro",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright lazhet"
 }

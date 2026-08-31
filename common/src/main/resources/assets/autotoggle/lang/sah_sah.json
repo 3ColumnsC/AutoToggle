@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift араарылынна",
     "message.autotoggle.autorun.disabled":  "Auto Run араарылынна",
     "key.autotoggle.autorun.toggle":  "Auto Run уларыт",
-    "message.autotoggle.autorun.enabled":  "Auto Run холбонно"
+    "message.autotoggle.autorun.enabled":  "Auto Run холбонно",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright уларыт",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright холбонно",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright араарылынна"
 }

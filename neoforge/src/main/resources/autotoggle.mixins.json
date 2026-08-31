@@ -5,7 +5,11 @@
 	"mixins": [],
 	"client": [
 		"KeyboardInputMixin",
-		"KeyMappingAccessor"
+		"KeyMappingAccessor",
+		"OptionInstanceAccessor",
+		"OptionsSaveMixin",
+		"WaterFogEnvironmentMixin",
+		"AtmosphericFogEnvironmentMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift כבויה",
     "message.autotoggle.autorun.disabled":  "Auto Run כבויה",
     "key.autotoggle.autorun.toggle":  "החלפת Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run פעילה"
+    "message.autotoggle.autorun.enabled":  "Auto Run פעילה",
+    "key.autotoggle.fullgammabright.toggle": "החלפת Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright פעילה",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright כבויה"
 }

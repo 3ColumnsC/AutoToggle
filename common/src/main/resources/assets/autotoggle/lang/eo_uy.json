@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift malŝaltita",
     "message.autotoggle.autorun.disabled":  "Auto Run malŝaltita",
     "key.autotoggle.autorun.toggle":  "Baskulu Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run ŝaltita"
+    "message.autotoggle.autorun.enabled":  "Auto Run ŝaltita",
+    "key.autotoggle.fullgammabright.toggle": "Baskulu Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ŝaltita",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright malŝaltita"
 }

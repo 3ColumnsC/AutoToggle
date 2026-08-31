@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift 비활성화",
     "key.autotoggle.autorun.toggle": "Auto Run 전환",
     "message.autotoggle.autorun.enabled": "Auto Run 활성화",
-    "message.autotoggle.autorun.disabled": "Auto Run 비활성화"
+    "message.autotoggle.autorun.disabled": "Auto Run 비활성화",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright 전환",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright 활성화",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright 비활성화"
 }

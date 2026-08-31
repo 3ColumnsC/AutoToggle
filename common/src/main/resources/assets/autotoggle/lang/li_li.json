@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift oet",
     "message.autotoggle.autorun.disabled":  "Auto Run oet",
     "key.autotoggle.autorun.toggle":  "Auto Run umzètte",
-    "message.autotoggle.autorun.enabled":  "Auto Run aan"
+    "message.autotoggle.autorun.enabled":  "Auto Run aan",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright umzètte",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright aan",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright oet"
 }

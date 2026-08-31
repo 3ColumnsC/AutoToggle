@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift dezactivat",
     "message.autotoggle.autorun.disabled":  "Auto Run dezactivat",
     "key.autotoggle.autorun.toggle":  "Comută Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run activat"
+    "message.autotoggle.autorun.enabled":  "Auto Run activat",
+    "key.autotoggle.fullgammabright.toggle": "Comută Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright activat",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright dezactivat"
 }

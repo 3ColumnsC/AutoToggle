@@ -9,6 +9,7 @@ import com.threecolumnsstudio.autotoggle.feature.AutoRunFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoShiftFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoToolFeature;
 import com.threecolumnsstudio.autotoggle.feature.AutoElytraFireworkFeature;
+import com.threecolumnsstudio.autotoggle.feature.FullGammaBrightFeature;
 import net.minecraft.client.Minecraft;
 import net.minecraft.resources.Identifier;
 import net.neoforged.api.distmarker.Dist;
@@ -43,6 +44,7 @@ public class AutoToggleNeoForge {
         event.register(AutoRightClickFeature.KEY);
         event.register(AutoToolFeature.KEY);
         event.register(AutoElytraFireworkFeature.KEY);
+        event.register(FullGammaBrightFeature.KEY);
     }
 
     private void onRegisterGuiLayers(RegisterGuiLayersEvent event) {

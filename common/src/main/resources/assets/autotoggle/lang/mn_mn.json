@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift унтарсан",
     "message.autotoggle.autorun.disabled":  "Auto Run унтарсан",
     "key.autotoggle.autorun.toggle":  "Auto Run солих",
-    "message.autotoggle.autorun.enabled":  "Auto Run идэвхжсэн"
+    "message.autotoggle.autorun.enabled":  "Auto Run идэвхжсэн",
+    "key.autotoggle.fullgammabright.toggle": "Full Bright солих",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright идэвхжсэн",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright унтарсан"
 }

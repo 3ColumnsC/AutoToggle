@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift wedi\u0027i analluogi",
     "message.autotoggle.autorun.disabled":  "Auto Run wedi\u0027i analluogi",
     "key.autotoggle.autorun.toggle":  "Toglo Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run wedi\u0027i alluogi"
+    "message.autotoggle.autorun.enabled":  "Auto Run wedi\u0027i alluogi",
+    "key.autotoggle.fullgammabright.toggle": "Toglo Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright wedi\u0027i alluogi",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright wedi\u0027i analluogi"
 }

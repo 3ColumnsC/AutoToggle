@@ -1,8 +1,9 @@
 # AutoToggle
 
-A lightweight, fully client-side mod that adds one-key toggles for running, sneaking, jumping, clicking, tool switching, and elytra fireworks.
+A lightweight, fully client-side mod that adds one-key toggles for running, sneaking, jumping, clicking, tool switching, One-Click Fullbright and elytra fireworks.
 
 <img src="https://res.cloudinary.com/dbtdewiqk/image/upload/v1786797284/1_ibfid2.jpg" alt="AutoToggle Mod Keybinds" width="900">
+<img src="https://res.cloudinary.com/dbtdewiqk/image/upload/v1788165408/fbgamma_pftte9.jpg" alt="AutoToggle Mod Functions In Game" width="900">
 <img src="https://res.cloudinary.com/dbtdewiqk/image/upload/v1786797285/2_m5tz8n.jpg" alt="AutoToggle Mod Functions In Game" width="900">
 
 ---
@@ -18,6 +19,7 @@ A lightweight, fully client-side mod that adds one-key toggles for running, snea
 | **Auto-Right-Click** | Unbound     | Auto-places blocks or fires charged bows/crossbows                          |
 | **Auto-Tool** | `K`         | Auto-selects the best hotbar tool for the block you're mining               |
 | **Auto-Firework** | Unbound     | Auto-launches fireworks while gliding with an elytra                        |
+| **Full Bright** | `Z`         | Boosts brightness in all dimensions, including underwater, the Nether and the End |
 
 All keybinds are fully remappable in **Options > Controls**.
 

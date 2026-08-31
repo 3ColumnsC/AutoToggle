@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift غیرفعال شد",
     "message.autotoggle.autorun.disabled":  "Auto Run غیرفعال شد",
     "key.autotoggle.autorun.toggle":  "تغییر حالت Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run فعال شد"
+    "message.autotoggle.autorun.enabled":  "Auto Run فعال شد",
+    "key.autotoggle.fullgammabright.toggle": "تغییر حالت Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright فعال شد",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright غیرفعال شد"
 }

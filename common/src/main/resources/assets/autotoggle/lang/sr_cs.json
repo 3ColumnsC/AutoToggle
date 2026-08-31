@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift isključeno",
     "message.autotoggle.autorun.disabled":  "Auto Run isključeno",
     "key.autotoggle.autorun.toggle":  "Uključi/isključi Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run uključeno"
+    "message.autotoggle.autorun.enabled":  "Auto Run uključeno",
+    "key.autotoggle.fullgammabright.toggle": "Uključi/isključi Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright uključeno",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright isključeno"
 }

@@ -20,5 +20,8 @@
     "message.autotoggle.autoshift.disabled": "Auto Shift izslēgta",
     "message.autotoggle.autorun.disabled":  "Auto Run izslēgts",
     "key.autotoggle.autorun.toggle":  "Pārslēgt Auto Run",
-    "message.autotoggle.autorun.enabled":  "Auto Run ieslēgts"
+    "message.autotoggle.autorun.enabled":  "Auto Run ieslēgts",
+    "key.autotoggle.fullgammabright.toggle": "Pārslēgt Full Bright",
+    "message.autotoggle.fullgammabright.enabled": "Full Bright ieslēgts",
+    "message.autotoggle.fullgammabright.disabled": "Full Bright izslēgts"
 }
