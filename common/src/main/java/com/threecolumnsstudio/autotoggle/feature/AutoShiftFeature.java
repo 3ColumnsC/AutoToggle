@@ -10,7 +10,7 @@ public final class AutoShiftFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.autoshift.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.KEY_Y,
         KeyBindings.CATEGORY,
         2

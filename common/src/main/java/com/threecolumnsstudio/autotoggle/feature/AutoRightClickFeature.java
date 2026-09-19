@@ -17,7 +17,7 @@ public final class AutoRightClickFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.autorightclick.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.UNKNOWN.getValue(),
         KeyBindings.CATEGORY,
         5

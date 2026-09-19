@@ -12,7 +12,7 @@ public final class FullGammaBrightFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.fullgammabright.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.KEY_Z,
         KeyBindings.CATEGORY,
         7

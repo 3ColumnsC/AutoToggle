@@ -15,7 +15,7 @@ public final class AutoLeftClickFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.autoleftclick.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.KEY_I,
         KeyBindings.CATEGORY,
         4

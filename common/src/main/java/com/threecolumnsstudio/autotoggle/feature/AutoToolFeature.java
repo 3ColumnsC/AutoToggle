@@ -37,7 +37,7 @@ public final class AutoToolFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         TOGGLE_KEY,
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.KEY_K,
         KeyBindings.CATEGORY,
         0

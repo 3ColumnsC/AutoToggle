@@ -10,7 +10,7 @@ public final class AutoRunFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.autorun.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.KEY_R,
         KeyBindings.CATEGORY,
         1

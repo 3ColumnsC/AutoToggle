@@ -10,7 +10,7 @@ public final class AutoJumpFeature {
 
     public static final KeyMapping KEY = new KeyMapping(
         "key.autotoggle.autojump.toggle",
-        InputConstants.Type.KEYSYM,
+        InputConstants.Type.KEYBOARD,
         InputConstants.UNKNOWN.getValue(),
         KeyBindings.CATEGORY,
         3
